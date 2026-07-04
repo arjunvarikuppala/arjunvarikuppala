@@ -1,6 +1,6 @@
 # arjunvarikuppala-
 # 💫 About Me:
-## 🚀 About Me<br><br>🔭 **I'm currently working on:** AI Resume Analyzer and Full-Stack MERN applications<br><br>🤝 **I'm looking to collaborate on:** Open-source MERN Stack and Full-Stack Web Development projects<br><br>💬 **Ask me about:** C++, JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and Data Structures & Algorithms<br><br>🌱 **I'm currently learning:** System Design, Docker, CI/CD, and Backend Architecture<br><br><br>📫 **Reach me at:** arjunvarikuppala167@gmail.com<br><br>⚡ **Fun fact:** I enjoy solving DSA problems and building real-world web applications that solve practical problems.
+<br><br>🔭 **I'm currently working on:** AI Resume Analyzer and Full-Stack MERN applications<br><br>🤝 **I'm looking to collaborate on:** Open-source MERN Stack and Full-Stack Web Development projects<br><br>💬 **Ask me about:** C++, JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and Data Structures & Algorithms<br><br>🌱 **I'm currently learning:** System Design, Docker, CI/CD, and Backend Architecture<br><br><br>📫 **Reach me at:** arjunvarikuppala167@gmail.com<br><br>⚡ **Fun fact:** I enjoy solving DSA problems and building real-world web applications that solve practical problems.
 
 
 ## 🌐 Socials:
